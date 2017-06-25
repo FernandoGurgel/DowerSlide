@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/32a89ea4eee1343edbe3e7b70d180979c4a6dbd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_38d04504dcb706f002baad80a5eaeaef3fbd9d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/9c7f9033cb6f41c8bfbe1edeea409a17d831df49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_1d0fb393d8b50cb08fb788a6f6d2e4905039001f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/01e9b069a0aba14cdc5c7bc29d458a839f83a616/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_70cf1d8d637797ab9ef2da03f0962f926559a3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/5d591196d77450951a8b97f50e093ce7e139738b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_a0ef473a0ff962b1bdaa0c6cbe5b94c8abe7e883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1fadc471903c80a4d171ab39179d210e4d54d262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/b63206aa5aa278e1bf65286adfb632a45180340b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_8ccd519faecea820b1385f6168392dbf9b60afe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_3f81edfe2252b8f854e891232f21e0878b5338b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/6a3dbebef9ded9d7fa1d36d9ac0e618cf851c15f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_f27dfb9d8e6083216856ccdff6857776eafc8a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/c6b884caab95e0865f8d2494bec0d35397281ea7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_abbd64c99c62d9f9d8cecbc71e9f05e17ac7470f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/.android/build-cache/f55364500c2bb0cdacb9610da823c073f01149e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/pre-dexed/debug/classes_af6a0630d92017952e4bedf3c5eb5771538cda5e.jar" />
+    </item>
+
+</items>
