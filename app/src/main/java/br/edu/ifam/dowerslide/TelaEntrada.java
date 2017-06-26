@@ -35,13 +35,14 @@ public class TelaEntrada extends AppCompatActivity {
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
         layout = (RelativeLayout) findViewById(R.id.fundo_progressBar);
         button = (Button) findViewById(R.id.btn_ok);
+        conexao = new ModeloConexao(ip.getText().toString(),"aceita",5000);
     }
 
     public void onClickValida(View view){
         if (ip.length() > 8){
             componetProgressBar(true);
-            conexao = new ModeloConexao(ip.getText().toString(),"aceita",5000);
             new Thread(new EnviandoSolicitacao()).start();
+            recebeSolicitacao();
         }else{
             ip.setText("");
             ip.hasFocus();
@@ -54,6 +55,12 @@ public class TelaEntrada extends AppCompatActivity {
         vida = true;
         try {
             new Thread(new ReceberMensagem()).start();
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            vida = false;
             validaMensagem();
 
         } catch (Exception e) {
@@ -96,10 +103,14 @@ public class TelaEntrada extends AppCompatActivity {
 
         byte[] dadosReceber = new byte[255];
         DatagramSocket socket = null;
-        int cont;
 
         @Override
         public void run() {
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             Log.d("Fernando", "Recebendo mensagem");
             while (vida) {
                 try {
@@ -130,12 +141,6 @@ public class TelaEntrada extends AppCompatActivity {
                             System.out.println(ex.getMessage());
                         }
                     }
-                    if(cont < 1000){
-                        cont++;
-                    }else{
-                        vida = false;
-                    }
-
                 }
             }
 
@@ -157,7 +162,6 @@ public class TelaEntrada extends AppCompatActivity {
                 observadoSocket.send(pacote);
                 observadoSocket.close();
                 Log.d("Fernando","Mensagem de solicitacao enviada");
-                recebeSolicitacao();
             }catch (Exception e) {
                 e.printStackTrace();
             }

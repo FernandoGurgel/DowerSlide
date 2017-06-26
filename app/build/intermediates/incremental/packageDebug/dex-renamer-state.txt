@@ -1,4 +1,4 @@
-#Mon Jun 26 12:07:18 AMT 2017
+#Mon Jun 26 12:58:58 AMT 2017
 base.0=/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
