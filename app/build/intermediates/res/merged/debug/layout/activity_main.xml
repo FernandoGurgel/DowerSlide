@@ -4,17 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginRight="10dp"
-    android:layout_marginLeft="10dp"
-    android:layout_marginTop="10dp"
-    android:layout_marginBottom="10dp"
     android:orientation="vertical"
+    android:background="@drawable/fundo_moderno"
     tools:context="br.edu.ifam.dowerslide.MainActivity">
 
     <RelativeLayout
+        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center">
+        android:layout_gravity="center">
+        <Button
+            android:id="@+id/btn_volta"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/btn_circle_left"
+            android:layout_marginTop="88dp" />
         <ImageButton
             android:id="@+id/btn_proximo"
             android:layout_width="150dp"
@@ -23,18 +27,12 @@
             android:layout_marginTop="45dp"
             android:layout_toRightOf="@id/btn_volta"
             />
-        <Button
-            android:id="@+id/btn_volta"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:background="@drawable/btn_circle_left"
-            android:layout_marginTop="88dp" />
     </RelativeLayout>
 
     <Button
         android:layout_marginTop="20dp"
         android:layout_gravity="center"
-        android:id="@+id/button3"
+        android:id="@+id/btn_apresenta"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:background="@drawable/slides"

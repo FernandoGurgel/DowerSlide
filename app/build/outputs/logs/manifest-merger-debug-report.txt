@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
 application
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/fernando/.android/build-cache/6a3dbebef9ded9d7fa1d36d9ac0e618cf851c15f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/fernando/.android/build-cache/c6b884caab95e0865f8d2494bec0d35397281ea7/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/fernando/.android/build-cache/b63206aa5aa278e1bf65286adfb632a45180340b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/fernando/.android/build-cache/f55364500c2bb0cdacb9610da823c073f01149e8/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/fernando/.android/build-cache/5d591196d77450951a8b97f50e093ce7e139738b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fernando/.android/build-cache/01e9b069a0aba14cdc5c7bc29d458a839f83a616/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fernando/.android/build-cache/32a89ea4eee1343edbe3e7b70d180979c4a6dbd8/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/fernando/.android/build-cache/9c7f9033cb6f41c8bfbe1edeea409a17d831df49/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /home/fernando/.android/build-cache/35b34cd3fa01004e5ba5f97e87835bd7a44edb6f/output/AndroidManifest.xml:9:5-20
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/BecaCavalcante/.android/build-cache/121c771f7b95de8c1ea8627c94eb4a40be78c9a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/BecaCavalcante/.android/build-cache/3f318448237b87b8fe1ca4298eb1bf8f2aa05fb0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/7d3e91a3cac1594a06e750c53482ad54c1739ac0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/BecaCavalcante/.android/build-cache/5a2aabcfb5312a1cea83de2d682cccad2cd616bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/BecaCavalcante/.android/build-cache/288eb3c25f817228873f72d929c64cd1b0ed25fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/31a13eb5caaacc9b261e964d888e2af830814c4c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/ddb694a8df35027f0d774ac96bd4ef84fe26cf3d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/c2adb735dbf7b7ab4a13af27cd1eb21e3b3c8d78/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /Users/BecaCavalcante/.android/build-cache/5462d13654dc196c4cec59cec6102a1c0152e6dd/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:11:9-40
 activity#br.edu.ifam.dowerslide.MainActivity
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:12:9-17:20
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:12:9-17:20
 	android:name
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:15:17-76
+ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /home/fernando/.android/build-cache/6a3dbebef9ded9d7fa1d36d9ac0e618cf851c15f/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/fernando/.android/build-cache/c6b884caab95e0865f8d2494bec0d35397281ea7/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/fernando/.android/build-cache/b63206aa5aa278e1bf65286adfb632a45180340b/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/fernando/.android/build-cache/f55364500c2bb0cdacb9610da823c073f01149e8/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/fernando/.android/build-cache/5d591196d77450951a8b97f50e093ce7e139738b/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fernando/.android/build-cache/01e9b069a0aba14cdc5c7bc29d458a839f83a616/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fernando/.android/build-cache/32a89ea4eee1343edbe3e7b70d180979c4a6dbd8/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /home/fernando/.android/build-cache/9c7f9033cb6f41c8bfbe1edeea409a17d831df49/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /home/fernando/.android/build-cache/35b34cd3fa01004e5ba5f97e87835bd7a44edb6f/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/BecaCavalcante/.android/build-cache/121c771f7b95de8c1ea8627c94eb4a40be78c9a4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/BecaCavalcante/.android/build-cache/3f318448237b87b8fe1ca4298eb1bf8f2aa05fb0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/7d3e91a3cac1594a06e750c53482ad54c1739ac0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/BecaCavalcante/.android/build-cache/5a2aabcfb5312a1cea83de2d682cccad2cd616bc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/BecaCavalcante/.android/build-cache/288eb3c25f817228873f72d929c64cd1b0ed25fb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/31a13eb5caaacc9b261e964d888e2af830814c4c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/ddb694a8df35027f0d774ac96bd4ef84fe26cf3d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/c2adb735dbf7b7ab4a13af27cd1eb21e3b3c8d78/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] /Users/BecaCavalcante/.android/build-cache/5462d13654dc196c4cec59cec6102a1c0152e6dd/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
-		INJECTED from /mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/fernando/.android/build-cache/6a3dbebef9ded9d7fa1d36d9ac0e618cf851c15f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/fernando/.android/build-cache/c6b884caab95e0865f8d2494bec0d35397281ea7/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/fernando/.android/build-cache/b63206aa5aa278e1bf65286adfb632a45180340b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/fernando/.android/build-cache/f55364500c2bb0cdacb9610da823c073f01149e8/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/fernando/.android/build-cache/5d591196d77450951a8b97f50e093ce7e139738b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/fernando/.android/build-cache/01e9b069a0aba14cdc5c7bc29d458a839f83a616/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/fernando/.android/build-cache/32a89ea4eee1343edbe3e7b70d180979c4a6dbd8/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/fernando/.android/build-cache/9c7f9033cb6f41c8bfbe1edeea409a17d831df49/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/BecaCavalcante/.android/build-cache/121c771f7b95de8c1ea8627c94eb4a40be78c9a4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/BecaCavalcante/.android/build-cache/3f318448237b87b8fe1ca4298eb1bf8f2aa05fb0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/7d3e91a3cac1594a06e750c53482ad54c1739ac0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/BecaCavalcante/.android/build-cache/5a2aabcfb5312a1cea83de2d682cccad2cd616bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/BecaCavalcante/.android/build-cache/288eb3c25f817228873f72d929c64cd1b0ed25fb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/31a13eb5caaacc9b261e964d888e2af830814c4c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/BecaCavalcante/.android/build-cache/ddb694a8df35027f0d774ac96bd4ef84fe26cf3d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/BecaCavalcante/.android/build-cache/c2adb735dbf7b7ab4a13af27cd1eb21e3b3c8d78/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/AndroidManifest.xml:26:9-47

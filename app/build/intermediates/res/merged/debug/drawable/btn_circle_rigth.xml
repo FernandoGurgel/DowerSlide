@@ -20,7 +20,7 @@
         android:right="5dp">
         <shape android:shape="oval">
             <solid
-                android:color="#d4d4d4"/>
+                android:color="#f0ffffff"/>
         </shape>
     </item>
     <item
