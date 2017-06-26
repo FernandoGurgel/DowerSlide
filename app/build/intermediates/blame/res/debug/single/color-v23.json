@@ -1,42 +1,46 @@
 [
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_default.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_switch_thumb.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/fernando/.android/build-cache/ed35f2dc129897592a7002d624322f1ebab4fd7e/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/color-v23/abc_btn_colored_text_material.xml"
     }
 ]

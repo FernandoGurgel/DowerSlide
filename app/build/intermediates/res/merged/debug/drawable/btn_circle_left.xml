@@ -9,6 +9,7 @@
             <size android:height="45dp"
                 android:width="45dp"/>
             <gradient
+
                 android:startColor="#D4D4D4"
                 android:centerColor="#616161"
                 android:endColor="#262626"

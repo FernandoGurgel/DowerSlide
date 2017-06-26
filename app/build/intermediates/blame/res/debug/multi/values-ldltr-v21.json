@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

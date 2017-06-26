@@ -1,7 +1,4 @@
-#Sun Jun 25 15:38:07 PDT 2017
-base.0=/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c4c594961b2fb0be64eeba32b5909184fe53950
-renamed.1=classes2.dex
+#Mon Jun 26 12:07:18 AMT 2017
+base.0=/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fcf9efc03674494b8571dec619859d239f7bcf40/classes.dex
-base.1=/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fcf9efc03674494b8571dec619859d239f7bcf40
-file.0=/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c4c594961b2fb0be64eeba32b5909184fe53950/classes.dex
+file.0=/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

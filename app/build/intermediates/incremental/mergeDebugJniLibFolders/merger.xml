@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/debug/jniLibs"/></dataSet></merger>

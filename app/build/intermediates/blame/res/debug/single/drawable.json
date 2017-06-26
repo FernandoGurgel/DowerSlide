@@ -1,198 +1,218 @@
 [
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/notification_bg.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/btn_circle_rigth.xml",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/btn_circle_rigth.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/close.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/close.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slideshare.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/slideshare.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_moderno.jpg",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/fundo_moderno.jpg"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/left.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/left.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/game_controller.jpg",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/game_controller.jpg"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_controle.jpg",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/fundo_controle.jpg"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/btn_circle_rigth.xml",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/btn_circle_rigth.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slide.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/slide.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/right.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/right.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/fernando/.android/build-cache/ed35f2dc129897592a7002d624322f1ebab4fd7e/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/left.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/left.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo1.jpg",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/fundo1.jpg"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo1.jpg",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/fundo1.jpg"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/right.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/right.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_entrada.xml",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/fundo_entrada.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/close.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/close.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/notification_icon_background.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/fernando/.android/build-cache/ed35f2dc129897592a7002d624322f1ebab4fd7e/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slideshare.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/slideshare.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/btn_circle_left.xml",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/btn_circle_left.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_moderno.jpg",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/fundo_moderno.jpg"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_vector_test.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slide.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/slide.png"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_remoto.jpg",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/fundo_remoto.jpg"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/notification_bg_low.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_remoto.jpg",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/fundo_remoto.jpg"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slides.png",
-        "source": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/src/main/res/drawable/slides.png"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/fernando/.android/build-cache/ed35f2dc129897592a7002d624322f1ebab4fd7e/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/game_controller.jpg",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/game_controller.jpg"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/btn_circle_left.xml",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/btn_circle_left.xml"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/fundo_controle.jpg",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/fundo_controle.jpg"
+    },
+    {
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/drawable/slides.png",
+        "source": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/src/main/res/drawable/slides.png"
     }
 ]

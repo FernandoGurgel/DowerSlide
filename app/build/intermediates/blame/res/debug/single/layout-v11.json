@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_media_action.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/BecaCavalcante/Documents/workspace/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/BecaCavalcante/.android/build-cache/174e3586750fe7ecb9d252cf12cb8991c02a9e96/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "/mnt/309d2e03-4d2b-4af5-bc51-59e2de3e10a0/workspace_android/DowerSlide/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/fernando/.android/build-cache/f135fa1c727aab7d1d3a6f945877ffdbd7f3bddc/output/res/layout-v11/notification_media_action.xml"
     }
 ]
